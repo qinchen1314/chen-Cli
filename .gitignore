@@ -1,0 +1,8 @@
+target/
+.env
+.paicli_history
+*.log
+*.tmp
+.idea/
+.vscode/
+*.iml
